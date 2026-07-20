@@ -1,0 +1,9 @@
+{
+  "total_parameters": 12315120,
+  "trainable_parameters": 12315120,
+  "model_size_mb_safetensors": 47.17,
+  "inference_device": "cuda",
+  "mean_latency_ms_bs1": 12.44,
+  "p95_latency_ms_bs1": 14.72,
+  "input_resolution": 384
+}
