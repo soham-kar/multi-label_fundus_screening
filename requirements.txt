@@ -1,0 +1,29 @@
+# GLAAM-4X: Fundus Disease Detection
+# Required for training and inference
+
+# Core Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image Processing
+opencv-python-headless>=4.8.0
+Pillow>=10.0.0
+
+# Data Science
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+
+# Explainability
+grad-cam>=1.4.0
+
+# Training Utilities
+safetensors>=0.4.0
+psutil>=5.9.0
+tqdm>=4.65.0
+pyyaml>=6.0
+
+# Web Demo (only needed for demo/app.py)
+flask>=3.0.0
